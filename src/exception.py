@@ -1,4 +1,3 @@
-# exception file
 import sys
 
 # a function to load the execution information and return the error message
