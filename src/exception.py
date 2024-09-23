@@ -1,4 +1,5 @@
 import sys
+from src.logger import logging
 
 # a function to load the execution information and return the error message
 def error_message_details(error, error_details:sys):
